@@ -63,10 +63,10 @@ body{
 	line-height: 1.2;
 	color: #242424;
 	width: 100%;
-	font-family: 'Open Sans', arial, sans-serif;
+	/* font-family: 'Open Sans', arial, sans-serif; */
 }
 .container{
-	max-width: 1325px;
+	max-width: 1240px;
 	width: 100%;
 	min-width: 320px;
 	margin: 0 auto;
