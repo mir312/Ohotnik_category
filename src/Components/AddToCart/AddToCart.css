@@ -1,0 +1,28 @@
+.AddToCart button {
+  padding: 2px 10px;
+  background-color:#211e1e;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-family: inherit;
+  width: 200px;
+  text-align: center;
+  margin: 0 auto;
+ }
+.AddToCart button:hover {
+background: #353535;
+}
+
+.AddToCart{
+  margin-top: 50px;
+  flex-wrap: nowrap;
+  align-items: center;
+  max-width: 400px;
+  margin-bottom: 20px;
+ 
+}
+.Product .AddToCart{
+  max-width: 240px;
+  margin: 50px auto 20px;
+
+}
